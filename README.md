@@ -41,4 +41,4 @@ Audience Targeting: Refine strategies by analyzing gender engagement breakdown.
 Trend Analysis: Monitor seasonality in engagement trends to align campaigns with high-response periods.
 ROI Measurement: Assess campaign effectiveness by analyzing the funnel conversion from impressions to engagement.
 
-Screenshot/Demo:
+Screenshot/Demo:https://github.com/anshudainsights3/DA-Dashboards/blob/main/Social%20Media%20Analysis.png
